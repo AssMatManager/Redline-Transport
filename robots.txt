@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /recrutement/
+Disallow: /admin/
